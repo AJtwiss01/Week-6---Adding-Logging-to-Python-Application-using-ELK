@@ -8,3 +8,5 @@ For School Dev Opp Logging to ELK AWS
 1. python 2.7 
 2.  `pip install logger`
 3.  `pip install python-logstash`
+
+
